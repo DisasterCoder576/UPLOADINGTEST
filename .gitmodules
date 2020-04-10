@@ -1,3 +1,6 @@
 [submodule "UPLOADINGTEST"]
 	path = UPLOADINGTEST
 	url = https://github.com/DisasterCoder576/UPLOADINGTEST.git
+[submodule "UPLOADTEST"]
+	path = UPLOADTEST
+	url = https://github.com/DisasterCoder576/UPLOADTEST.git
